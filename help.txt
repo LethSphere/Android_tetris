@@ -1,0 +1,1 @@
+Ola gamer prueba con enviar un emnsaje por consola para verificar el color y la posicion en el recorrido del vector, saludos
